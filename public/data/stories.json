@@ -1,5 +1,5 @@
 [
-  { "id": 1, "image": "../src/assets/pexels-pixabay-531602.jpg" },
-  { "id": 2, "image": "../src/assets/pexels-julius-silver-240301-753639.jpg" },
-  { "id": 3, "image": "../src/assets/pexels-mark-neal-201020-2225442.jpg" }
+  { "id": 1, "image": "/assets/pexels-pixabay-531602.jpg" },
+  { "id": 2, "image": "/assets/pexels-julius-silver-240301-753639.jpg" },
+  { "id": 3, "image": "/assets/pexels-mark-neal-201020-2225442.jpg" }
 ]
