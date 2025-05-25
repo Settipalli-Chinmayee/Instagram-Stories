@@ -1,5 +1,8 @@
 [
   { "id": 1, "image": "/assets/pexels-pixabay-531602.jpg" },
   { "id": 2, "image": "/assets/pexels-julius-silver-240301-753639.jpg" },
-  { "id": 3, "image": "/assets/pexels-mark-neal-201020-2225442.jpg" }
+  { "id": 3, "image": "/assets/pexels-mark-neal-201020-2225442.jpg" },
+  { "id": 4, "image": "/assets/pexels-pixabay-434311.jpg" },
+  { "id": 5, "image": "/assets/pexels-azhar-muhammedu-152002-3021382.jpg" },
+  { "id": 5, "image": "/assets/pexels-peterfazekas-874626.jpg" }
 ]
